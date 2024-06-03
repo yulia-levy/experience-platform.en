@@ -41,6 +41,7 @@ All POST, PUT, and PATCH requests require an additional header:
 ## Evaluate a segment definition {#evaluate-a-segment}
 
 Once you have developed, tested, and saved your segment definition, you can then evaluate the segment definition through either scheduled evaluation or on-demand evaluation.
+Note: Check you license entitlements in your Sales Order and corresponding Product Description on actual usage limits for this capability. 
 
 [Scheduled evaluation](#scheduled-evaluation) (also known as 'scheduled segmentation') allows you to create a recurring schedule for running an export job at a specific time, whereas [on-demand evaluation](#on-demand-evaluation) involves creating a segment job to build the audience immediately. Steps for each are outlined below.
 
